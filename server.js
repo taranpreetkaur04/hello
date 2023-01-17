@@ -6,7 +6,7 @@
 *
 * Name: Taranpreet Kaur Student ID: 156419210  Date: 01-17-2023
 *
-* Online (Cyclic) URL: _______________________________________________________
+* Online (Cyclic) URL: https://brave-red-tuxedo.cyclic.app/
 *
 ********************************************************************************/ 
 
@@ -17,7 +17,7 @@ var my_app = express();
 
 //default route
 my_app.get("/", (request, resource) =>{
-    resource.send("hello world");
+    resource.send("Taranpreet Kaur - 156419210");
 
 });
 
